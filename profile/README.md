@@ -8,7 +8,7 @@ Please select the specific industrial or corporate sector below to view its sub-
 
 ### 🌐 Corporate & Technical Sectors
 
-* 💻 **[Information Technology Sector](https://github.com)**
+* 💻 **[Information Technology Sector](https://github.com/rcl-competency-registry/sector-information-technology)**
   * *Focus:* Software Development, Cloud Architecture, Cybersecurity, and Data Infrastructure.
   * *Maintained by:* IT Governance Board
 
